@@ -1,5 +1,4 @@
 # dendrite-ds-screening-test
-# Dendrite.ai - Data Science Screening Test
 
 ## Overview
 
@@ -17,7 +16,7 @@ The script dynamically builds a machine learning pipeline using Scikit-learn, ba
 
 1. Open [Google Colab](https://colab.research.google.com/)
 2. Upload the 3 files into your Google Drive
-3. Open and run `final_colab_script.py` from Colab
+3. Open and run `screening_test_ds.py` from Colab
 4. Ensure file paths to the JSON and CSV are correct
 5. The pipeline will preprocess, reduce features, train models, and print evaluation metrics.
 
